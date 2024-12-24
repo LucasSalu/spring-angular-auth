@@ -1,0 +1,1 @@
+CREATE SEQUENCE applications_seq START 1;

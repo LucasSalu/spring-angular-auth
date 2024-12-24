@@ -1,0 +1,1 @@
+CREATE SEQUENCE jobs_seq START 1;
