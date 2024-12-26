@@ -190,6 +190,39 @@ Este projeto é um sistema de gerenciamento de vagas e candidaturas desenvolvido
    docker ps
    ```
 
+
+   # Configuração do Frontend Angular
+
+Este projeto utiliza Angular 15 como framework para o frontend, e o Bootstrap para estilização.
+
+## Requisitos
+
+Certifique-se de ter as seguintes ferramentas instaladas:
+- **Node.js** (v16 ou superior)
+- **Angular CLI** (v15 ou superior)
+
+## Passos para Configuração e Execução
+
+1. Navegue até o diretório do projeto frontend:
+   ```bash
+   cd auth-project
+   ```
+
+2. Instale as dependências do projeto:
+   ```bash
+   npm install
+   ```
+
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   ng serve
+   ```
+
+4. Acesse a aplicação no navegador em:
+   ```
+   http://localhost:4200
+   ```
+
 ## Estrutura do Projeto
 
 ### Backend
