@@ -150,7 +150,7 @@ Este projeto é um sistema de gerenciamento de vagas e candidaturas desenvolvido
 ### Backend
 1. Clone o repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LucasSalu/spring-angular-auth
    ```
 2. Navegue para o diretório do backend e configure o arquivo `application.properties` com as credenciais do banco de dados.
 3. Compile e execute o projeto:
